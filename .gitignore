@@ -1,0 +1,6 @@
+*.txt
+*.iml
+*.xml
+*.class
+/out/
+/.idea/
